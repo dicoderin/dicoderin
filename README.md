@@ -36,6 +36,8 @@
 
 ![snake gif](https://raw.githubusercontent.com/dicoderin/dicoderin/1e536ea60ca97c5b0f218be3f620a734bb471d20/github-snake-dark.svg)
 
+![me](https://github.com/dicoderin/dicoderin/raw/refs/heads/main/7663682e3d805c0e51d1559ec13a3fea.gif)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dicoderin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
