@@ -34,7 +34,7 @@
   </a>
 </p>
 
-![snake gif](https://github.com/dicoderin/dicoderin/blob/output/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/dicoderin/dicoderin/1e536ea60ca97c5b0f218be3f620a734bb471d20/github-snake-dark.svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dicoderin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
