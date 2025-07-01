@@ -1,10 +1,10 @@
-<h1 align="center">🪩 Welcome to Eyren Coding Github📍</h1>  
+<h1 align="center">Welcome💜🩷</h1>  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=Testnet+Dev+%7C+Reverse+Engineer+%7C+Automation+Wizard;Debugging+in+Multiple+Languages+%F0%9F%94%96;Automating+Things+That+Don't+Need+Automation+%E2%9C%A8;Making+Scripts+Run+Smoother+Than+Life+Decisions+%F0%9F%98%86" alt="Typing SVG" />
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <img src="https://github.com/dicoderin/dicoderin/raw/refs/heads/main/d0ab8730556dc18f1aafec895e6489e2_720w.gif" width="300"/>
 </div>
 
 ---
