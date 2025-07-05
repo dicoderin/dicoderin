@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/dicoderin/dicoderin/raw/refs/heads/main/d0ab8730556dc18f1aafec895e6489e2_720w.gif" width="300"/>
+  <img src="https://github.com/dicoderin/dicoderin/raw/refs/heads/main/ezgif-6db4c0d497ac30.gif" width="300"/>
 </div>
 
 ---
@@ -35,8 +35,6 @@
 </p>
 
 ![snake gif](https://raw.githubusercontent.com/dicoderin/dicoderin/1e536ea60ca97c5b0f218be3f620a734bb471d20/github-snake-dark.svg)
-
-![me](https://github.com/dicoderin/dicoderin/raw/refs/heads/main/7663682e3d805c0e51d1559ec13a3fea.gif)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dicoderin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
